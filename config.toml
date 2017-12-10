@@ -1,0 +1,3 @@
+baseURL = "http://example.org/"
+theme = "similimum"
+publishDir = "docs"
