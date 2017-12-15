@@ -1,3 +1,33 @@
-baseURL = "http://example.org/"
-theme = "similimum"
-publishDir = "docs"
+baseurl                = "https://similimum.info"
+title                  = "Homeopathy in Dénia, Orba and Pedreguer"
+
+[menu]
+    [[menu.main]]
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
+    weight     = 1
+    
+    [[menu.main]]
+    identifier = "applications"
+    name       = "Applications"
+    url        = "/applications"
+    weight     = 2
+
+    [[menu.main]]
+    identifier = "homeopathy"
+    name       = "Homeopathy"
+    url        = "/homeopathy/"
+    weight     = 3
+
+    [[menu.main]]
+    identifier = "treatment"
+    name       = "Treatment Details"
+    url        = "/treatment/"
+    weight     = 4
+
+    [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
+    weight     = 5
