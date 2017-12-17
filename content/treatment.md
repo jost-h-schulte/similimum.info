@@ -1,23 +1,27 @@
 +++
-title = "Treatment - Homeopathy in Dénia, Orba and Pedreguer"
+title = "Homeopathy in Dénia, Orba and Pedreguer"
+description = "Treatment"
 url = "/treatment/"
 +++
 
-##Treatment details
+## Treatment details
 
-The main tool in order to arrive at a homeopathic diagnosis and therefore a suitable remedy, is the conversation with the patient. In addition any visible signs of illness are useful as information for the homeopath. In cases where patients cannot speak for themselves, relatives or other persons close to the patient are consulted.
+To arrive at a suitable remedy I have a thorough and detailed conversation with the patient where I ask all about their presenting complaints and other strong influences in their history. Examination and medical diagnoses can give additional information. In cases where patients cannot speak for themselves, relatives or other persons close to the patient are consulted.
 
-Homeopathy is a profound and extensive art of healing, that takes its time. For an initial consultation I calculate between 1 and 2 hours, for children less than for adolescents and adults. Sometimes further studying of the case is required after the consultation to determine the appropriate remedy. Depending upon the development of the patient's state we arrange follow up appointments periodically.
+## Typical progression
 
-The objective of a homeopathic therapy is to bring the patient to a higher level of health and wellbeing.
+Homeopathy is a profound and extensive art of healing that takes its time. For an initial consultation I calculate between 1 and 2 hours, for children less than for adolescents and adults. Sometimes further studying of the case is required after the consultation to determine the appropriate remedy. Depending upon the development of the patient's state we arrange follow up appointments periodically.
 
-##Costs
+**The objective of a homeopathic therapy is to bring the patient to a higher level of health and wellbeing.**
+
+## Fees
 
 For my work I charge the following fees:
 
-Initial consultation with children from 0 to 18 years of age: 50 Euro
-Initial consultation with children from 19 years onwards and adults: 60 Euro
-Follow ups: 40 Euro
-Acute treatment: 20 Euro
+* First consultation from 0 to 18 years of age: **50 Euro**
+* First consultation from 19 years onwards: **60 Euro**
+* Consecutive consultations: **40 Euro**
 
-Should you not have the financial means to pay the treatment, we will surely find an agreement. I want to make a homeopathic therapy available to every person.
+You can pay cash or by credit card.
+
+_Should you not have the financial means to pay the treatment, we will surely find an agreement._

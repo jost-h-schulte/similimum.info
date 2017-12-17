@@ -1,5 +1,6 @@
 +++
-title = "Applications - Homeopathy in Dénia, Orba and Pedreguer"
+title = "Homeopathy in Dénia, Orba and Pedreguer"
+description = "Applications"
 url = "/applications/"
 +++
 
@@ -17,4 +18,4 @@ All the way up to old age and the last stage of life homeopathy is useful. In in
 
 Forming a complete and holistic healing system seeing the person in its entirety, homeopathy furthermore is a support on a path of personal and spiritual growth. It can help dissolve limiting beliefs about oneself and lead to greater freedom and joy in life.
 
-If you're uncertain whether homeopathy can help you, please contact me for a free preliminary consultation.
+_If you're uncertain whether homeopathy can help you, please contact me for a free preliminary consultation._

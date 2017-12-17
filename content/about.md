@@ -1,5 +1,6 @@
 +++
-title = "About Me - Homeopathy in Dénia, Orba and Pedreguer"
+title = "Homeopathy in Dénia, Orba and Pedreguer"
+description = "About Me"
 url = "/about/"
 +++
 

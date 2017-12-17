@@ -2,8 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="/style.css">
-    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
+    <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
+    <title>{{ .Description }} - {{ .Title }}</title>
   </head>
   <body>
     <header>
@@ -14,6 +17,8 @@
             {{ end }}
         </nav>
     </header>
-    {{ .Content }}
+    <main>
+        {{ .Content }}
+    </main>
   </body>
 </html>
