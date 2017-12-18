@@ -4,7 +4,9 @@ description = "About Me"
 url = "/about/"
 +++
 
-About me
+![Me](/images/yo.jpg)
+
+## About me
 
 I was born in 1980 in Bielefeld, Germany. On account of my own disease, at the age of 13 I already had contact with natural therapies, among them homeopathy. Thanks to a breakthrough with the homeopathic treatment I could witness in which way this medicine makes a better life possible for me.
 
@@ -14,8 +16,7 @@ Back in Germany I completed an intensive course encompassing conventional medici
 
 In my experience, homeopathy is one of the most complete and profound therapies there are, that have been verified over a long time. Time and again I attest to or hear about astonishing healings - which is another source of motivation for me. It is a pleasure for me to accompany people on their path in life and support them in big and small crises. And above all watch them emerge stronger.
 
- 
-I have studied with various teachers and homeopaths
+## I have studied with various teachers and homeopaths
 
 Jutta Schoppe, Germany, homeopath and teacher with more than 20 years of experience: https://homoeopathie-schoppe.jimdo.com/
 

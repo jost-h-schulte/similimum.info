@@ -4,6 +4,8 @@ description = "Treatment"
 url = "/treatment/"
 +++
 
+![Bee On Flower](/images/bee_flower.jpg)
+
 ## Treatment details
 
 To arrive at a suitable remedy I have a thorough and detailed conversation with the patient where I ask all about their presenting complaints and other strong influences in their history. Examination and medical diagnoses can give additional information. In cases where patients cannot speak for themselves, relatives or other persons close to the patient are consulted.

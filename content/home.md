@@ -3,7 +3,13 @@ title = "Homeopathy in Dénia, Orba and Pedreguer"
 url = "/"
 +++
 
-Have you tried all possible practitioners and therapies? Is there nothing that can be done for you? Are you sick of taking medications? **Then Homeopathy might be the medicine for you.**
+![Path](/images/path.jpg)
+
+## Welcome
+
+Have you tried all possible practitioners and therapies? Is there nothing that can be done for you? Are you sick of taking medications? Do you want to advance as a human being?
+
+**Homeopathy might be the medicine for you.**
 
 In many cases there’s a possibility for improving your health or even curing your disease with homeopathic medicine. Homeopathy is a natural, holistic and non-toxic treatment and has been used to successfully treat all kinds of conditions for more than 200 years. It continues to be the most-used natural medicine in the world.
 

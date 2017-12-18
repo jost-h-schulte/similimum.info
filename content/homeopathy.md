@@ -4,6 +4,8 @@ description = "About Homeopathy"
 url = "/homeopathy/"
 +++
 
+![Purple Flower](/images/purple_flower.jpg)
+
 ## Natural Medicine
 
 In nature there are remedies for every situation and complaint. Homeopathy as a complete healing system utilizes the curative effects of natural substances. These medicines activate the self-healing of the person and the organism regulates itself automatically. An internal balance is reestablished and disease can be overcome.

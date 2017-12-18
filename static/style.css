@@ -9,21 +9,24 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 0 auto;
   font-family: "Proza Libre", sans-serif;
   line-height: 2rem;
+  text-align: justify;
   color: #411f11;
   background-color: #f5f1da; }
 
 h1 {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
-  font-size: 1.3rem; }
+  font-size: 1.6rem;
+  text-align: center;
+  color: #d1590f; }
 
 h2 {
-  margin-top: 2rem;
+  margin: 2rem 0 0 0;
   padding: 0;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   color: #d1590f; }
 
 header {
@@ -32,33 +35,63 @@ header {
   color: #d1590f;
   box-shadow: rgba(0, 0, 0, 0.26) 0px 2px 5px 0px; }
   header img {
-    float: right;
-    margin: 1rem;
-    max-width: 50px;
+    display: inline-block;
+    margin: 0 0.5rem;
+    vertical-align: middle;
+    max-width: 3rem;
     height: auto; }
-  header nav a {
-    margin: 0;
-    padding: 0;
-    color: #fff;
-    text-decoration: none;
-    background-color: #005c2c; }
+  header nav {
+    margin: 1rem auto;
+    text-align: center; }
+    header nav a, header nav a:link, header nav a:visited {
+      display: inline-block;
+      margin: 0.2rem 0.1rem;
+      padding: 0 0.5rem;
+      color: #fff;
+      text-decoration: none;
+      background-color: #005c2c;
+      border-radius: 3px;
+      box-shadow: rgba(0, 0, 0, 0.26) 2px 2px 2px 0px; }
+    header nav a:hover {
+      color: #fff;
+      text-decoration: none;
+      background-color: #d1590f;
+      border-radius: 3px;
+      box-shadow: rgba(0, 0, 0, 0.26) 2px 2px 2px 0px, rgba(0, 0, 0, 0.3) 2px 2px 10px 0; }
+    header nav a:active {
+      color: #fff;
+      text-decoration: none;
+      background-color: #d1590f;
+      border-radius: 3px;
+      box-shadow: 0; }
 
 main {
-  padding: 1rem 2rem; }
+  margin: 0 auto;
+  padding: 2rem 0;
+  width: 80%; }
   main strong {
     color: #005c2c; }
 
-@media only screen and (min-width: 768px) {
-  header, main {
-    padding: 2rem 4rem; }
-    header img, main img {
-      max-width: 100%; }
-    header h1, main h1 {
-      font-size: 2rem; }
-    header h2, main h2 {
-      font-size: 2rem; }
+img {
+  max-width: 100%; }
 
+p {
+  margin: 1rem 0 0 0;
+  padding: 0; }
+
+@media only screen and (min-width: 768px) {
+  header h1, main h1 {
+    font-size: 2rem; }
+  header h2, main h2 {
+    font-size: 1.5rem; } }
+@media only screen and (min-width: 1280px) {
   main {
-    width: 70%; } }
+    width: 50%; }
+
+  header h1, main h1 {
+    padding: 0.5rem;
+    font-size: 2.5rem; }
+  header h2, main h2 {
+    font-size: 2rem; } }
 
 /*# sourceMappingURL=style.css.map */

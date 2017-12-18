@@ -1,4 +1,4 @@
-baseurl                = "https://jost-h-schulte.github.com/similimum.info"
+baseurl                = "https://jost-h-schulte.github.io/similimum.info"
 title                  = "Homeopathy in Dénia, Orba and Pedreguer"
 canonifyurls           = true
 
@@ -16,15 +16,15 @@ canonifyurls           = true
     weight     = 2
 
     [[menu.main]]
-    identifier = "homeopathy"
-    name       = "Homeopathy"
-    url        = "/homeopathy/"
+    identifier = "treatment"
+    name       = "Treatment"
+    url        = "/treatment/"
     weight     = 3
 
     [[menu.main]]
-    identifier = "treatment"
-    name       = "Treatment Details"
-    url        = "/treatment/"
+    identifier = "homeopathy"
+    name       = "Homeopathy"
+    url        = "/homeopathy/"
     weight     = 4
 
     [[menu.main]]
