@@ -30,4 +30,4 @@ Dr. Jonathan Hardy, England, homeopath and teacher with more than 30 years of ex
 
 Dr. Gustavo Andrade Galindo, Ecuador, homeopath and teacher with more than 15 years of experience.
 
-Thank you for your teachings and your friendship!
+**Thank you for your teachings and your friendship!**

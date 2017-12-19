@@ -7,7 +7,7 @@ url = "/"
 
 ## Welcome
 
-Have you tried all possible practitioners and therapies? Is there nothing that can be done for you? Are you sick of taking medications? Do you want to advance as a human being?
+Have you tried all possible practitioners and therapies? Is there nothing that can be done for you? Are you sick of taking medications? Do you want to grow spiritually as a human being?
 
 **Homeopathy might be the medicine for you.**
 

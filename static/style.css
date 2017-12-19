@@ -9,19 +9,20 @@ html {
 
 body {
   margin: 0;
-  padding: 0 auto;
+  padding: 0;
   font-family: "Proza Libre", sans-serif;
-  line-height: 2rem;
+  line-height: 1.8rem;
   text-align: justify;
   color: #411f11;
   background-color: #f5f1da; }
 
 h1 {
-  margin: 0 auto;
-  padding: 0;
+  margin: 0;
+  padding: 0 0.5rem;
+  line-height: 2rem;
   font-size: 1.6rem;
   text-align: center;
-  color: #d1590f; }
+  color: #005c2c; }
 
 h2 {
   margin: 2rem 0 0 0;
@@ -30,9 +31,12 @@ h2 {
   color: #d1590f; }
 
 header {
+  position: sticky;
+  top: 0;
   margin: 0;
-  padding: 1rem 2rem;
+  padding: 0.5rem 0;
   color: #d1590f;
+  background-color: #f5f1da;
   box-shadow: rgba(0, 0, 0, 0.26) 0px 2px 5px 0px; }
   header img {
     display: inline-block;
@@ -46,18 +50,20 @@ header {
     header nav a, header nav a:link, header nav a:visited {
       display: inline-block;
       margin: 0.2rem 0.1rem;
-      padding: 0 0.5rem;
+      padding: 0.2rem 0.5rem;
       color: #fff;
       text-decoration: none;
       background-color: #005c2c;
       border-radius: 3px;
-      box-shadow: rgba(0, 0, 0, 0.26) 2px 2px 2px 0px; }
+      box-shadow: rgba(0, 0, 0, 0.26) 2px 2px 2px 0px;
+      transition: background-color 0.2s, box-shadow 0.2s; }
     header nav a:hover {
       color: #fff;
       text-decoration: none;
       background-color: #d1590f;
       border-radius: 3px;
-      box-shadow: rgba(0, 0, 0, 0.26) 2px 2px 2px 0px, rgba(0, 0, 0, 0.3) 2px 2px 10px 0; }
+      box-shadow: rgba(0, 0, 0, 0.26) 2px 2px 2px 0px, rgba(0, 0, 0, 0.3) 2px 2px 10px 0;
+      transition: background-color 0.2s, box-shadow 0.2s; }
     header nav a:active {
       color: #fff;
       text-decoration: none;
@@ -65,33 +71,51 @@ header {
       border-radius: 3px;
       box-shadow: 0; }
 
+footer {
+  padding: 1rem;
+  color: #f5f1da;
+  background-color: #411f11; }
+
 main {
   margin: 0 auto;
-  padding: 2rem 0;
-  width: 80%; }
+  padding: 1rem 0;
+  width: 90%; }
   main strong {
     color: #005c2c; }
 
 img {
-  max-width: 100%; }
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  border-radius: 3px; }
 
 p {
   margin: 1rem 0 0 0;
   padding: 0; }
 
 @media only screen and (min-width: 768px) {
+  main {
+    margin: 0 auto;
+    padding: 2rem 0;
+    width: 80%;
+    line-height: 2rem; }
+    main strong {
+      color: #005c2c; }
+
   header h1, main h1 {
     font-size: 2rem; }
   header h2, main h2 {
     font-size: 1.5rem; } }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 900px) {
   main {
-    width: 50%; }
+    width: 70%; }
 
   header h1, main h1 {
-    padding: 0.5rem;
     font-size: 2.5rem; }
   header h2, main h2 {
     font-size: 2rem; } }
+@media only screen and (min-width: 1280px) {
+  main {
+    width: 50%; } }
 
 /*# sourceMappingURL=style.css.map */

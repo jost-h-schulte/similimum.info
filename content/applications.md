@@ -4,7 +4,7 @@ description = "Applications"
 url = "/applications/"
 +++
 
-![Blue Flower](/images/blue_flower.jpg)
+![Blue Flower](/images/yellow_flower.jpg)
 
 ## Applications
 
@@ -16,7 +16,7 @@ The answer is: generally yes! **Most conditions can be treated with homeopathy.*
 
 As the onset of chronic diseases is shifting to an earlier age continuously and a leading cause of death being chemical medication, homeopathic medicine is an excellent choice for adolescents and adults alike because of its **non-toxic** nature. Whether it is one of the increasing number of autoimmune disorders or deep grief, homeopathy provides a constructive and non-addictive way of addressing these issues.
 
-Not only the **immune system** can be positively influenced through homeopathic care, but also imbalances in the **hormonal system**. Therefore many thyroid complaints (hyperthyroidism and problems concerning the female reproductive system can be corrected, avoiding often detrimental chemical or surgical treatments.
+Not only the **immune system** can be positively influenced through homeopathic care, but also imbalances in the **hormonal system**. Therefore many thyroid complaints like hyper-/hypothyroidism and problems concerning the female reproductive system can be corrected, often avoiding detrimental chemical or surgical treatments.
 
 All the way up to old age and the last stage of life homeopathy is useful. In incurable cases it can nevertheless alleviate symptoms or ease the transition of parting from this life.
 
