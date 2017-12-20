@@ -10,9 +10,8 @@
   </head>
   <body>
     <header>
-        <h1>{{ .Title }}</h1>
+        <h1>{{ .Title }}<img src="/images/logo.png" alt="Logo"></h1>
         <nav>
-            <img src="/images/logo.png" alt="Logo">
             {{ range .Site.Menus.main }}
                 <a href="{{ .URL }}">{{ .Name }}</a>
             {{ end }}
@@ -22,8 +21,18 @@
         {{ .Content }}
     </main>
     <footer>
+        <p id="contact">
+            +34 654 062 239<br>
+            <a href="mailto:js@similimum.info">js@similimum.info</a>
+        </p>
         <p>
-            Phone + 34 654 062 239
+            Centro Orenda, Calle Senija 5, 03700 Dénia
+        </p>
+        <p>
+            Calle Bonaire 28, 1a planta izquirda, 03790 Orba
+        </p>
+        <p>
+            Ecosomnis, Plaça Sant Cristofor 6, 03750 Pedreguer
         </p>
     </footer>
   </body>
