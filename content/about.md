@@ -16,7 +16,7 @@ Back in Germany I completed an intensive course encompassing conventional medici
 
 In my experience, homeopathy is one of the most complete and profound therapies there are, that have been verified over a long time. Time and again I attest to or hear about astonishing healings - which is another source of motivation for me. It is a pleasure for me to accompany people on their path in life and support them in big and small crises. And above all watch them emerge stronger.
 
-## I have studied with various teachers and homeopaths
+## My Teachers
 
 Jutta Schoppe, Germany, homeopath and teacher with more than 20 years of experience: https://homoeopathie-schoppe.jimdo.com/
 

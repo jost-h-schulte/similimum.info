@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="Homeopathy in Denia, Orba and Pedreguer offers a natural way of treating diseases and emotional distresses">
     <link rel="stylesheet" href="/style.css">
-    <link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
     <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
     <title>{{ if .Description }}{{ .Description }} - {{ end }}{{ .Title }}</title>
   </head>
@@ -12,8 +12,9 @@
     <header>
         <h1>{{ .Title }}<img src="/images/logo.png" alt="Logo"></h1>
         <nav>
+            {{ $currentPage := .File.TranslationBaseName }}
             {{ range .Site.Menus.main }}
-                <a href="{{ .URL }}">{{ .Name }}</a>
+                <a href="{{ .URL }}"{{if eq $currentPage .Identifier }} class="active"{{end}}>{{ .Name }}</a>
             {{ end }}
         </nav>
     </header>

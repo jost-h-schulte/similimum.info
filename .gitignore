@@ -1,5 +1,5 @@
 public/
 static/.sass-cache/
-static/*.scss
+static/*.css
 static/*.css.map
 update.bat
