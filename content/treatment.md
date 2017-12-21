@@ -1,7 +1,7 @@
 +++
-title = "Homeopathy in Dénia, Orba and Pedreguer"
-description = "Treatment"
+title = "Treatment - Homeopathy in Dénia, Orba and Pedreguer"
 url = "/treatment/"
+description = "Details and typical progression of a homeopathic therapy at Homeopathy in Dénia, Orba and Pedreguer"
 +++
 
 ![Bee On Flower](/images/bee_flower.jpg)

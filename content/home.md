@@ -1,24 +1,29 @@
 +++
 title = "Homeopathy in Dénia, Orba and Pedreguer"
 url = "/"
+description = "Homeopathy in Denia, Orba and Pedreguer offers a natural way of treating diseases and emotional distresses"
 +++
 
 ![Path](/images/path.jpg)
 
-## Welcome
+## Homeopathy
 
-Have you tried all possible practitioners and therapies? Is there nothing that can be done for you? Are you sick of taking medications? Do you want to grow spiritually as a human being?
-
-**Homeopathy might be the medicine for you.**
+The symptoms and illnesses our body produces are signs of an inner imbalance. In Homeopathy they are interpreted as direct guides to the medicine the person needs in this moment.
 
 In many cases there’s a possibility for improving your health or even curing your disease with homeopathic medicine. Homeopathy is a natural, holistic and non-toxic treatment and has been used to successfully treat all kinds of conditions for more than 200 years. It continues to be the most-used natural medicine in the world.
 
+## In my experience
+
+"Homeopathy is one of the most complete and profound therapies there are, that have been verified over a long time. It is a pleasure for me to accompany people on their path in life and support them in big and small challenges. And above all watch them emerge stronger."
+
 ## Fees
+
 * First consultation from 0 to 18 years of age: **50 Euro**
 * First consultation from 19 years onwards: **60 Euro**
 * Consecutive consultations: **40 Euro**
 
 ## Locations
+
 I practice in three different places in the Marina Alta:
 
 * **Dénia**, Centro Orenda in Calle Senija 5
