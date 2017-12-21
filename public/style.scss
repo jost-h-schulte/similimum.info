@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css?family=Proza+Libre');
+
+$font-stack: 'Proza Libre', sans-serif;
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: $font-stack;
+    line-height: 1.8rem;
+    text-align: justify;
+    color: #411f11;
+    background-color: #f5f1da;
+}
+    
+h1 {
+    margin: 0;
+    padding: 0.5rem;
+    line-height: 2rem;
+    font-size: 1.2rem;
+    text-align: center;
+    color: #d1590f;
+    background-color: #f5f1da;
+}
+    
+h2 {
+    margin: 2rem 0 0 0;
+    padding: 0;
+    font-size: 1.2rem;
+    color: #d1590f;
+}
+
+header {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color: #d1590f;
+    background-color: #f5f1da;
+    
+    img {
+        display: inline-block;
+        margin: 0 0.5rem;
+        vertical-align: middle;
+        max-width: 2.5rem;
+        height: auto;
+    }
+    
+    nav {
+        margin: 0 auto 1rem auto;
+        text-align: center;
+        
+        a, a:link, a:visited, a:active {
+            display: inline-block;
+            margin: 0 0.05rem;
+            padding: 0 0.2rem;
+            font-size: 0.8rem;
+            color: #fff;
+            text-decoration: none;
+            background-color: #005c2c;
+            border-radius: 3px;
+            box-shadow: rgba(0, 0, 0, 0.26) 2px 2px 2px 0px;
+            transition: background-color 0.2s, box-shadow 0.2s;
+        }
+        
+        a:hover, a.active:hover {
+            color: #fff;
+            text-decoration: none;
+            background-color: #d1590f;
+            border-radius: 3px;
+            box-shadow: rgba(0, 0, 0, 0.26) 2px 2px 2px 0px, rgba(0, 0, 0, 0.3) 2px 2px 10px 0;
+            transition: background-color 0.2s, box-shadow 0.2s;
+        }
+        
+        a.active {
+            color: #fff;
+            text-decoration: none;
+            background-color: #d1590f;
+            border-radius: 3px;
+            transition: background-color 0.2s, box-shadow 0.2s;
+        }
+    }
+}
+
+main {
+    margin: 0 auto;
+    padding: 0.5rem 0 1rem 0;
+    width: 90%;
+    
+    strong {
+        color: #005c2c;
+    }
+}
+
+footer {
+    padding: 1rem 2rem 2rem 2rem;
+    color: #f5f1da;
+    background-color: #411f11;
+    
+    p {
+        text-align: center;
+        
+        a, a:link, a:visited, a:active {
+            color: inherit;
+        }
+        
+        a:hover {
+            text-decoration: none;
+        }
+    }
+    
+    p#contact {
+        font-weight: bold;
+    }
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 3px;
+}
+
+p {
+    margin: 1rem 0 0 0;
+    padding: 0;
+}
+        
+a, a:link, a:visited, a:active {
+    color: #005c2c;
+}
+
+a:hover {
+    color: #005c2c;
+    text-decoration: none;
+}
+
+@media only screen and (min-width: 768px) {
+     h1 {
+        font-size: 2rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    header {
+        padding: 2rem 0 1rem 0;
+        
+        img {
+            margin: 0 0.5rem;
+            max-width: 3rem;
+        }
+    
+        nav {
+            margin: 1rem auto;
+            
+            a, a:link, a:visited {
+                margin: 0 0.1rem;
+                padding: 0.2rem 0.5rem;
+                font-size: 1rem;
+            }
+        }
+    }
+
+    main {
+        margin: 0 auto;
+        padding: 0.5rem 0 1rem 0;
+        width: 80%;
+        line-height: 2rem;
+        
+        strong {
+            color: #005c2c;
+        }
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+    
+    h2 {
+        font-size: 2rem;
+    }
+    
+    main {
+        width: 70%;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    main {
+        width: 50%;
+    }
+}
