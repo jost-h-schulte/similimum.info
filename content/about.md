@@ -14,16 +14,16 @@ In Germany I completed an intensive course encompassing conventional medicine an
 
 ## My Teachers
 
-Jutta Schoppe, Germany, homeopath and teacher with more than 20 years of experience: https://homoeopathie-schoppe.jimdo.com/
+* <a href="https://homoeopathie-schoppe.jimdo.com/" target="_blank">Jutta Schoppe, Germany</a> Homeopath and teacher with more than 20 years of experience
 
-Dr. Fernand Debats, Netherlands, homeopath and teacher with more than 30 years of experience: http://www.quodnatura.info/
+* <a href="http://www.quodnatura.info/" target="_blank">Dr. Fernand Debats, Netherlands</a> Homeopath and teacher with more than 30 years of experience
 
-Anne Vervarcke, Belgium, homeopath and teacher with more than 30 years of experience: http://annevervarcke.thewhiteroom.be/
+* <a href="http://annevervarcke.thewhiteroom.be/" target="_blank">Anne Vervarcke, Belgium</a> Homeopath and teacher with more than 30 years of experience
 
-Dr. Jayesh Shah, India, homeopath and teacher with more than 25 years of experience: http://www.homeopathyindia.org
+* <a href="http://www.homeopathyindia.org" target="_blank">Dr. Jayesh Shah, India</a> Homeopath and teacher with more than 25 years of experience
 
-Dr. Jonathan Hardy, England, homeopath and teacher with more than 30 years of experience: http://www.drjonathanhardy.co.uk/
+* <a href="http://www.drjonathanhardy.co.uk/" target="_blank">Dr. Jonathan Hardy, England</a> Homeopath and teacher with more than 30 years of experience
 
-Dr. Gustavo Andrade Galindo, Ecuador, homeopath and teacher with more than 15 years of experience.
+* Dr. Gustavo Andrade Galindo, Ecuador Homeopath and teacher with more than 15 years of experience
 
 **Thank you for your teachings and your friendship!**
