@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Homeopathy in Dénia, Orba and Pedreguer</title>
-    <link>http://www.similimum.info/tags/</link>
+    <link>https://www.similimum.info/tags/</link>
     <description>Recent content in Tags on Homeopathy in Dénia, Orba and Pedreguer</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://www.similimum.info/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.similimum.info/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

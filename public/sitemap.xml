@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.similimum.info/about/</loc>
+    <loc>https://www.similimum.info/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.similimum.info/applications/</loc>
+    <loc>https://www.similimum.info/applications/</loc>
   </url>
   
   <url>
-    <loc>http://www.similimum.info/categories/</loc>
+    <loc>https://www.similimum.info/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.similimum.info/homeopathy/</loc>
+    <loc>https://www.similimum.info/homeopathy/</loc>
   </url>
   
   <url>
-    <loc>http://www.similimum.info/</loc>
+    <loc>https://www.similimum.info/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.similimum.info/</loc>
+    <loc>https://www.similimum.info/</loc>
   </url>
   
   <url>
-    <loc>http://www.similimum.info/tags/</loc>
+    <loc>https://www.similimum.info/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.similimum.info/treatment/</loc>
+    <loc>https://www.similimum.info/treatment/</loc>
   </url>
   
 </urlset>
