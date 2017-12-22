@@ -8,7 +8,7 @@ description = "Jost offers a homeopathic therapy in Dénia, Orba and Pedreguer i
 
 ## About me
 
-I was born in 1980 in Bielefeld, Germany. On account of my own disease, at the age of 13 I already had contact with natural therapies, among them homeopathy. Thanks to a breakthrough with the homeopathic treatment I could witness in which way this medicine makes a better life possible for me.
+I was born in 1980 in Bielefeld, Germany. On account of my own disease, at the age of 13 I already had contact with natural therapies, among them homeopathy. Thanks to a breakthrough with the homeopathic treatment I am able to enjoy my life to the fullest.
 
 In Germany I completed an intensive course encompassing conventional medicine and homeopathy. In 2012 I passed my exam before the public health department. Since then I practise with all my heart, deepening my knowledge with books, seminars and exchanges among colleagues. Homeopathy, health and personal growth as a human being in this universe are topics that will always fascinate me.
 
