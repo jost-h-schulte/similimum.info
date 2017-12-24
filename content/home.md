@@ -10,7 +10,7 @@ description = "Homeopathy in Denia, Orba and Pedreguer offers a natural way of t
 
 The symptoms and illnesses our body produces are signs of an inner imbalance. In Homeopathy they are interpreted as direct guides to the medicine the person needs in this moment.
 
-In many cases there’s a possibility for improving your health or even curing your disease with homeopathic medicine. Homeopathy is a natural, holistic and non-toxic treatment and has been used to successfully treat all kinds of conditions for more than 200 years. It continues to be the most-used natural medicine in the world.
+In many cases there’s a possibility to improve your health or even cure your disease with homeopathic medicine. Homeopathy is a natural, holistic and non-toxic treatment and has been used to successfully treat all kinds of conditions for more than 200 years. It continues to be the most-used natural medicine in the world.
 
 ## In my experience
 
