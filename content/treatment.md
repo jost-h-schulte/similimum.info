@@ -20,9 +20,8 @@ Homeopathy is a profound and extensive art of healing that takes its time. For a
 
 For my work I charge the following fees:
 
-* First consultation from 0 to 18 years of age: **50 Euro**
-* First consultation from 19 years onwards: **60 Euro**
-* Consecutive consultations: **40 Euro**
+* Consultation from 0 to 18 years of age: **30 Euro**
+* Consultation from 19 years onwards: **40 Euro**
 
 You can pay cash or by credit card.
 
