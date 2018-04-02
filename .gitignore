@@ -2,3 +2,4 @@ static/.sass-cache/
 static/*.css
 static/*.css.map
 update.bat
+hugo.exe
