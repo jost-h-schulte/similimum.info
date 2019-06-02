@@ -14,16 +14,16 @@ In Germany I completed an intensive course encompassing conventional medicine an
 
 ## My Teachers
 
-* <a href="https://homoeopathie-schoppe.jimdo.com/" target="_blank">Jutta Schoppe, Germany</a><br>Homeopath and teacher with more than 20 years of experience
+* <a href="https://homoeopathie-schoppe.jimdo.com/" target="_blank">Jutta Schoppe, Germany</a><br/>Homeopath and teacher with more than 20 years of experience
 
-* <a href="http://www.quodnatura.info/" target="_blank">Dr. Fernand Debats, Netherlands</a><br>Homeopath and teacher with more than 30 years of experience
+* <a href="http://www.quodnatura.info/" target="_blank">Dr. Fernand Debats, Netherlands</a><br/>Homeopath and teacher with more than 30 years of experience
 
-* <a href="http://annevervarcke.thewhiteroom.be/" target="_blank">Anne Vervarcke, Belgium</a><br>Homeopath and teacher with more than 30 years of experience
+* <a href="http://annevervarcke.thewhiteroom.be/" target="_blank">Anne Vervarcke, Belgium</a><br/>Homeopath and teacher with more than 30 years of experience
 
-* <a href="http://www.homeopathyindia.org" target="_blank">Dr. Jayesh Shah, India</a><br>Homeopath and teacher with more than 25 years of experience
+* <a href="http://www.homeopathyindia.org" target="_blank">Dr. Jayesh Shah, India</a><br/>Homeopath and teacher with more than 25 years of experience
 
-* <a href="http://www.drjonathanhardy.co.uk/" target="_blank">Dr. Jonathan Hardy, England</a><br>Homeopath and teacher with more than 30 years of experience
+* <a href="http://www.drjonathanhardy.co.uk/" target="_blank">Dr. Jonathan Hardy, England</a><br/>Homeopath and teacher with more than 30 years of experience
 
-* Dr. Gustavo Andrade Galindo, Ecuador Homeopath and teacher with more than 15 years of experience
+* Dr. Gustavo Andrade Galindo, Ecuador<br/>Homeopath and teacher with more than 15 years of experience
 
 **Thank you for your teachings and your friendship!**

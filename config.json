@@ -1,0 +1,43 @@
+{
+    "baseurl": "https://www.similimum.info",
+    "title": "Homeopathy in Dénia, Orba and Pedreguer",
+    "canonifyurls": true,
+    "taxonomies": {
+        "tag": "",
+        "category": ""
+    },
+    "menu": {
+        "main": [
+            {
+                "identifier": "home",
+                "name": "Home",
+                "url": "/",
+                "weight": 1
+            },
+            {
+                "identifier": "applications",
+                "name": "Applications",
+                "url": "/applications/",
+                "weight": 2
+            },
+            {
+                "identifier": "treatment",
+                "name": "Treatment",
+                "url": "/treatment/",
+                "weight": 3
+            },
+            {
+                "identifier": "homeopathy",
+                "name": "Homeopathy",
+                "url": "/homeopathy/",
+                "weight": 4
+            },
+            {
+                "identifier": "about",
+                "name": "About",
+                "url": "/about/",
+                "weight": 5
+            }
+        ]
+    }
+}

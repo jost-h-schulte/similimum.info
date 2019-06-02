@@ -1,5 +1,6 @@
 static/.sass-cache/
 static/*.css
 static/*.css.map
+hugo
 update.bat
-hugo.exe
+.DS_STORE
