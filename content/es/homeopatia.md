@@ -1,8 +1,8 @@
-+++
-title = "Homeopathy - Homeopathy in Dénia, Orba and Pedreguer"
-url = "/homeopathy/"
-description = "Homeopathy uses natural medicines in a holistic, individualised therapy"
-+++
+---
+title: "Homeopatía - Homeopatía en Dénia, Orba y Pedreguer"
+description: "La homeopatía usa medicamentos naturales con una terapia holística e invidualizada"
+translationKey: "homeopathy"
+---
 
 ![Purple Flower](/images/purple_flower.jpg)
 

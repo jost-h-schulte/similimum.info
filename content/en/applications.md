@@ -1,8 +1,8 @@
-+++
-title = "Applications - Homeopathy in Dénia, Orba and Pedreguer"
-url = "/applications/"
-description = "Homeopathy is useful in numerous physical, emotional and stress-related situations"
-+++
+---
+title: "Applications - Homeopathy in Dénia, Orba and Pedreguer"
+description: "Homeopathy is useful in numerous physical, emotional and stress-related situations"
+translationKey: "applications"
+---
 
 ![Blue Flower](/images/yellow_flower.jpg)
 

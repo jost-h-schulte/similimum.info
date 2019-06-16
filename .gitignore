@@ -2,5 +2,4 @@ static/.sass-cache/
 static/*.css
 static/*.css.map
 hugo
-update.bat
 .DS_STORE

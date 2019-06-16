@@ -1,8 +1,8 @@
-+++
-title = "About Me - Homeopathy in Dénia, Orba and Pedreguer"
-url = "/about/"
-description = "Jost offers a homeopathic therapy in Dénia, Orba and Pedreguer in the province of Alicante"
-+++
+---
+title: "About Me - Homeopathy in Dénia, Orba and Pedreguer"
+description: "Jost offers a homeopathic therapy in Dénia, Orba and Pedreguer in the province of Alicante"
+translationKey: "about"
+---
 
 ![Me](/images/yo.jpg)
 

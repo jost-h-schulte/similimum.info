@@ -1,40 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.similimum.info/index.html</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.similimum.info/index.html</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.similimum.info/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.similimum.info/applications/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.similimum.info/homeopathy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.similimum.info/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.similimum.info/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.similimum.info/treatment/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://similimum.info/es/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://similimum.info/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>

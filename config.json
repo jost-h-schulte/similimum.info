@@ -1,43 +1,81 @@
 {
-    "baseurl": "https://www.similimum.info",
-    "title": "Homeopathy in Dénia, Orba and Pedreguer",
+    "baseurl": "https://similimum.info",
+    "googleAnalytics": "UA-108048244-1",
     "canonifyurls": true,
-    "taxonomies": {
-        "tag": "",
-        "category": ""
-    },
-    "menu": {
-        "main": [
-            {
-                "identifier": "home",
-                "name": "Home",
-                "url": "/",
-                "weight": 1
-            },
-            {
-                "identifier": "applications",
-                "name": "Applications",
-                "url": "/applications/",
-                "weight": 2
-            },
-            {
-                "identifier": "treatment",
-                "name": "Treatment",
-                "url": "/treatment/",
-                "weight": 3
-            },
-            {
-                "identifier": "homeopathy",
-                "name": "Homeopathy",
-                "url": "/homeopathy/",
-                "weight": 4
-            },
-            {
-                "identifier": "about",
-                "name": "About",
-                "url": "/about/",
-                "weight": 5
+    "DefaultContentLanguage": "en",
+    "defaultContentLanguageInSubdir": true,
+    "disableKinds": [
+        "taxonomy",
+        "taxonomyTerm"
+    ],
+    "languages": {
+        "en": {
+            "contentDir": "content/en",
+            "title": "Homepathy",
+            "weight": 1,
+            "menu": {
+                "main": [
+                    {
+                        "url": "/",
+                        "name": "Home",
+                        "weight": 1
+                    },
+                    {
+                        "url": "/applications",
+                        "name": "Applications",
+                        "weight": 2
+                    },
+                    {
+                        "url": "/treatment",
+                        "name": "Treatment",
+                        "weight": 3
+                    },
+                    {
+                        "url": "/homeopathy",
+                        "name": "Homeopathy",
+                        "weight": 4
+                    },
+                    {
+                        "url": "/about",
+                        "name": "About",
+                        "weight": 5
+                    }
+                ]
             }
-        ]
+        },
+        "es": {
+            "contentDir": "content/es",
+            "title": "Homeopatía",
+            "weight": 2,
+            "menu": {
+                "main": [
+                    {
+                        "url": "/",
+                        "name": "Inicio",
+                        "weight": 1
+                    },
+                    {
+                        "url": "/aplicaciones",
+                        "name": "Aplicaciones",
+                        "weight": 2
+                    },
+                    {
+                        "url": "/tratamiento",
+                        "name": "Tratamiento",
+                        "weight": 3
+                    },
+                    {
+                        "url": "/homeopatia",
+                        "name": "Homeopatía",
+                        "weight": 4
+                    },
+                    {
+                        "url": "/acerca",
+                        "name": "Acerca",
+                        "weight": 5
+                    }
+                ]
+            }
+        }
     }
 }
