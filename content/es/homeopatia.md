@@ -1,19 +1,19 @@
 ---
 title: "Homeopatía - Homeopatía en Dénia, Orba y Pedreguer"
-description: "La homeopatía usa medicamentos naturales con una terapia holística e invidualizada"
+description: "La homeopatía utiliza medicamentos naturales con una terapia holística e invidualizada"
 translationKey: "homeopathy"
 ---
 
 ![Purple Flower](/images/purple_flower.jpg)
 
-## Natural Medicine
+## Medicina Natural
 
-In nature there are remedies for every situation and complaint. Homeopathy as a complete healing system utilizes the curative effects of natural substances. These medicines activate the self-healing of the person and the organism regulates itself automatically. An internal balance is reestablished and disease can be overcome.
+En la naturaleza existen remedios para cualquier situación y molestia. La homeopatía como sistema sanador completo utiliza los efectos curativos de sustancias naturales. Estos medicamentos activan la autocuración de la persona y el organismo se regula por si mismo automáticamente. Un equilibrio interno se establece y se puede superar el malestar.
 
-## Holistic Approach
+## Método Holístico
 
-Homeopathy is a holistic and individual medicine. Holistic means that for the selection of a patient's remedy all their essential aspects are taken into account. Amoung them are, besides currently existing symptoms, the patient's clinical record and affections of their mind and emotions. So it's not a consideraton of single organs or body parts. Likewise body, soul and spirit are not being viewed as separate, independent parts of the human being, but in conjuncion. In their constant interaction they constitute the person as a whole.
+La homeopatía es una medicina holística e individual. Holístico significa que, para la selección del remedio de la persona, se tienen todos sus aspectos esenciales en cuenta. Entre ellos son, junto a síntomas actuales, la historía clinica del paciente y afecciones de sus pensamientos y emociones. Así que es una vista no de órganos or partes del cuerpo separados, sino de la unidad que son cuerpo, mente y espíritu.
 
-## Individual Therapy
+## Terapia Individual
 
-Every human being has their own personal combination of complaints. Apart from the visible and measurable appearances, the patient's own perception takes centre stage in finding the optimal remedy. Personal experience and dealing with the disease receive special attention in homeopathy. It is thus a truly individualising medicine.
+Cada ser humano tiene su propia combinación de molestias. Al lado de las apariciones visibles y medibles, la percepción propia de la persona desempeña el papel central en encontrar el medicamento óptimo. La experiencia personal y el manejo del malestar reciben atención especial en la homeopatía. Por eso es una medicina que realmente invidivualiza el tratamiento.
