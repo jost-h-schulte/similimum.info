@@ -8,9 +8,9 @@ translationKey: "applications"
 
 ## Applications
 
-One of the frequent questions is “Is there something for my joints?” Or “Can you treat my back pain?” And similar questions about a whole host of other conditions like hypertension, migraine, heartburn,  irritable bowel syndrome, rashes, anxiety, depression, insomnia etc. and symptoms that couldn’t be diagnosed.
+One of the frequent questions is “Is there something for my joints?” Or “Can you treat my back pain?” And similar questions about a whole host of other conditions like hypertension, migraine, heartburn, irritable bowel syndrome, rashes, anxiety, depression, insomnia etc. and symptoms that couldn’t be diagnosed.
 
-The answer is: generally yes! **Most conditions can be treated with homeopathy.** How far an improvement can go and whether the disease can be cured depends on the individual person. Even if a cure is not possible, like in severe cancer cases, homeopathy can relieve the pain and improve the person’s overall well-being. Refer to the page about homeopathy to understand its mode of action.
+The answer is: generally yes! **Most conditions can be treated with homeopathy.** How far an improvement can go and whether the disease can be cured depends on the individual case. Even if a cure is not possible, like in severe cancer cases, homeopathy can relieve the pain and improve the person’s overall well-being. Refer to the page about homeopathy to understand its mode of action.
 
 **People of all ages benefit from using homeopathy.** Babies and children can be treated very well and respond quickly to homeopathic treatment, since they normally don’t have a history of chemical medication. This includes physical issues like colics, flu, difficult teething, allergies (hay fever, asthma) and childhood diseases (mumps, measles, scarlet fever) as well as sleeping problems, emotional trauma or AD(H)D.
 

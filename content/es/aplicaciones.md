@@ -8,20 +8,20 @@ translationKey: "applications"
 
 ## Aplicaciones
 
-One of the frequent questions is “Is there something for my joints?” Or “Can you treat my back pain?” And similar questions about a whole host of other conditions like hypertension, migraine, heartburn,  irritable bowel syndrome, rashes, anxiety, depression, insomnia etc. and symptoms that couldn’t be diagnosed.
+Una de las preguntas más frecuentes es "¿Hay algo para mis articulaciones?" O "¿Puede tratar mi dolor en el estómago?", y preguntas similares sobre toda una gama de otras condiciones como hipertensión, migrania, acidez, intestino irritable, sarpullidos, ansiedad, depresión, insomnia etc. y síntomas que no tienen diagnóstico.
 
-The answer is: generally yes! **Most conditions can be treated with homeopathy.** How far an improvement can go and whether the disease can be cured depends on the individual person. Even if a cure is not possible, like in severe cancer cases, homeopathy can relieve the pain and improve the person’s overall well-being. Refer to the page about homeopathy to understand its mode of action.
+La respuesta es: ¡en general sí! **La mayoría de condiciones se pueden tratar con homeopátia.** Hasta dónde una mejoría va y si la enfermedad puede ser curada depende del caso individual. Incluso si la sanación no es posible, como en severos casos de cáncer, la homeopatía puede aliviar el dolor y mejorar el bienestar general de la persona. Mire la página sobre homeopatía para entender su modo de acción.
 
-**People of all ages benefit from using homeopathy.** Babies and children can be treated very well and respond quickly to homeopathic treatment, since they normally don’t have a history of chemical medication. This includes physical issues like colics, flu, difficult teething, allergies (hay fever, asthma) and childhood diseases (mumps, measles, scarlet fever) as well as sleeping problems, emotional trauma or AD(H)D.
+**Gente de todas edades se beneficia del uso de la homeopatia.** A bebés y niños se puede tratar muy bien y responden rápidamente al tratamiento homeopático, como normalmente no tienen una historia de medicación química. Esto incluye molestias físicas como cólicos, resfrios, dentición dolorosa, alérgias, asma y enfermedades infantiles (sarampión, papera, escarlatina) tanto como problemas del sueño, trauma emocional o TDA (trastorno por déficit de atención).
 
-Adverse effects of vaccination are another area where homeopathy is effective. With Homeoprophylaxis we have an **effective and harmless immunisation procedure** as an alternative to conventional vaccination.
+Efectos adversos por vacunación es otra area donde la homeopatía es efectivo. Con la homeoprofilaxis tenemos un **proceso de inmunización efectiva e innocua** como alternativa a la vacunación convencional.
 
-As the onset of chronic diseases is shifting to an earlier age continuously and a leading cause of death being chemical medication, homeopathic medicine is an excellent choice for adolescents and adults alike because of its **non-toxic** nature. Whether it is one of the increasing number of autoimmune disorders or deep grief, homeopathy provides a constructive and non-addictive way of addressing these issues.
+Como el comienzo de enfermedades crónicas se está adelantando continuamente y una causa principal de la muerte siendo medicación química, la medicina homeopática es una elección excelente para adolescentes e igual adultos por ser **no tóxico**. Sea una de las cada vez más numerosas enfermedades autoinmunes o un duelo profundo, la homeopatía provee una forma constructiva y no adictiva a acercarse a estos problemas.
 
-Not only the **immune system** can be positively influenced through homeopathic care, but also imbalances in the **hormonal system**. Therefore many thyroid complaints like hyper-/hypothyroidism and problems concerning the female reproductive system can be corrected, often avoiding detrimental chemical or surgical treatments.
+No solamente el **sistema inmunológico** se puede influenciar positivamente a través de la homeopatía, sino también desequilibrios del **sistema hormonal**. Por ello muchas de las molestias del tiroides como el hiper-/hipotiroidismo y problemas relacionados al sistema reproductivo de la mujer pueden ser corregidos, a menudo evitando tratamientos químicos o quirúrgicos perjudiciales.
 
-All the way up to old age and the last stage of life homeopathy is useful. In incurable cases it can nevertheless alleviate symptoms or ease the transition of parting from this life.
+Hasta la vejez y la última etapa de la vida, la homeopatía es útil. En casos incurables puede sin embargo aliviar síntomas o aligerar la transición del partir de esta vida.
 
-Forming a complete and holistic healing system seeing the person in its entirety, homeopathy furthermore is a support on a path of personal and spiritual growth. It can help **dissolve limiting beliefs about oneself and lead to greater freedom and joy in life.**
+Formando un sistema curativo completo y holístico, viendo la persona en su totalidad, la homeopatía además es un apoyo en un camino de crecimiento personal y espíritual. Puede ayudar a **dissolver creencias limitantes acerca uno mismo y llevar a una libertad y felicidad más grande en la vida.**
 
-_If you're uncertain whether homeopathy can help you, please contact me for a free preliminary consultation._
+_Si está inseguro si la homeopatía le puede ayudar, por favor contácteme por una consulta preliminar gratuita._
