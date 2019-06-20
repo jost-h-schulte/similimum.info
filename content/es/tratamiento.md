@@ -6,23 +6,21 @@ translationKey: "treatment"
 
 ![Bee On Flower](/images/bee_flower.jpg)
 
-## Treatment details
+## Detalles del Tratamiento
 
-To arrive at a suitable remedy I have a thorough and detailed conversation with the patient where I ask all about their presenting complaints and other strong influences in their history. Examination and medical diagnoses can give additional information. In cases where patients cannot speak for themselves, relatives or other persons close to the patient are consulted.
+Para encontrar un remedio adecuado, tengo una conversación amplia y detallada con el paciente en que pregunto sobre todos sus molestias presentes y otras fuertes influencias en su vida. Examinación y diagnóstico médico pueden dar pistas adicionales. En casos en los que el paciente no puede halbar por si mismo, hablo con familiares u otras personas cercanas.
 
-## Typical progression
+## Progresión Típica
 
-Homeopathy is a profound and extensive art of healing that takes its time. For an initial consultation I calculate between 1 and 2 hours, for children less than for adolescents and adults. Sometimes further studying of the case is required after the consultation to determine the appropriate remedy. Depending upon the development of the patient's state we arrange follow up appointments periodically.
+La homeopatía es una arte profunda y extensiva que requiere su tiempo. Para una consulta inicial calculo entre 1 y 2 horas, para niños y adolescentes menos que para adultos. A veces necesito estudiar el caso en casa después de la consulta para decidir por el medicamento correcto. Dependiente del efecto que tiene el remedio y del estado del paciente concertamos seguimientos periodicamente para evaluar el evolución.
 
-**The objective of a homeopathic therapy is to bring the patient to a higher level of health and wellbeing.**
+**El objetivo de la terapia homeopática es curar y estabilizar el paciente lo más posible y eliminar bloques que impidan el avance de su desarrollo.**
 
-## Fees
+## Honorarios
 
-For my work I charge the following fees:
+Cobro los siguientes honorarios por mi trabajo:
 
-* Consultation from 0 to 18 years of age: **30 Euro**
-* Consultation from 19 years onwards: **40 Euro**
+* Consultación de 0 a 18 años: **30 Euro**
+* Consultación de 19 años en adelante: **40 Euro**
 
-You can pay cash or by credit card.
-
-_Should you not have the financial means to pay the treatment, we will surely find an agreement._
+Puede pagar en metálico o con tarjeta de crédito.
