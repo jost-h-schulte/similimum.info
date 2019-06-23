@@ -10,8 +10,9 @@
     ],
     "languages": {
         "en": {
+            "languageName": "English",
             "contentDir": "content/en",
-            "title": "Homepathy",
+            "title": "Homeopathy in Dénia, Orba and Pedreguer",
             "weight": 1,
             "menu": {
                 "main": [
@@ -44,8 +45,9 @@
             }
         },
         "es": {
+            "languageName": "Español",
             "contentDir": "content/es",
-            "title": "Homeopatía",
+            "title": "Homeopatía en Dénia, Orba y Pedreguer",
             "weight": 2,
             "menu": {
                 "main": [

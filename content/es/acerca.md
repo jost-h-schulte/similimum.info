@@ -8,22 +8,24 @@ translationKey: "about"
 
 ## Acerca de mi
 
-I was born in 1980 in Bielefeld, Germany. On account of my own disease, at the age of 13 I already had contact with natural therapies, among them homeopathy. Thanks to a breakthrough with the homeopathic treatment I am able to enjoy my life to the fullest.
+Nací en Bielefeld, Alemania, en 1980. Por mi propia enfermdad, ya con 13 años tuve contacto con terapias naturales, entre ellos la homeopatía. Gracias a un éxito con el tratamiento homeopático puedo disfrutar de mi vida al máximo. Desde el principio me ha fascinado el método de la homeopatía y fue un paso lógico para mi completar un entrenamiento en esta medicina maravillosa.
 
-In Germany I completed an intensive course encompassing conventional medicine and homeopathy. In 2012 I passed my exam before the public health department. Since then I practise with all my heart, deepening my knowledge with books, seminars and exchanges among colleagues. Homeopathy, health and personal growth as a human being in this universe are topics that will always fascinate me.
+En Alemania terminé un curso intensivo abarcando medicina convencional y homeopatía. En 2012 hice mi examen ante el ministerio de salud. Desde entonces estoy ejerciendo con todo mi corazón, profundizando cada vez más mis conocimientos con libros, seminarios e intercambios entre colegas. La homepatía, salud y el desarrollo como ser humano en este universo son temas que siempre me van a fascinar.
 
-## My Teachers
+## Mis Profesores
 
-* <a href="https://homoeopathie-schoppe.jimdo.com/" target="_blank">Jutta Schoppe, Germany</a><br/>Homeopath and teacher with more than 20 years of experience
+* <a href="https://homoeopathie-schoppe.jimdo.com/" target="_blank">Jutta Schoppe, Alemania</a><br/>Homeópata y Profesora con más de 25 años de experiencia
 
-* <a href="http://www.quodnatura.info/" target="_blank">Dr. Fernand Debats, Netherlands</a><br/>Homeopath and teacher with more than 30 years of experience
+* <a href="http://www.quodnatura.info/" target="_blank">Dr. Fernand Debats, Países Bajos</a><br/>Homeópata y Profesor con más de 40 años de experiencia
 
-* <a href="http://annevervarcke.thewhiteroom.be/" target="_blank">Anne Vervarcke, Belgium</a><br/>Homeopath and teacher with more than 30 years of experience
+* <a href="http://annevervarcke.thewhiteroom.be/" target="_blank">Anne Vervarcke, Bélgica</a><br/>Homeópata y Profesora con más de 30 años de experiencia
 
-* <a href="http://www.homeopathyindia.org" target="_blank">Dr. Jayesh Shah, India</a><br/>Homeopath and teacher with more than 25 years of experience
+* <a href="http://www.homeopathyindia.org" target="_blank">Dr. Jayesh Shah, India</a><br/>Homeópata y Profesor con más de 25 años de experiencia
 
-* <a href="http://www.drjonathanhardy.co.uk/" target="_blank">Dr. Jonathan Hardy, England</a><br/>Homeopath and teacher with more than 30 years of experience
+* <a href="http://www.drjonathanhardy.co.uk/" target="_blank">Dr. Jonathan Hardy, Inglaterra</a><br/>Homeópata y Profesor con más de 30 años de experiencia
 
-* Dr. Gustavo Andrade Galindo, Ecuador<br/>Homeopath and teacher with more than 15 years of experience
+* <a href="http://www.janscholten.com/" target="_blank">Dr. Jan Scholten, Países Bajos</a><br/>Homeópata y Profesor con más de 30 años de experiencia
 
-**Thank you for your teachings and your friendship!**
+* Dr. Gustavo Andrade Galindo, Ecuador<br/>Homeópata con más de 20 años de experiencia
+
+**Gracias por vuestras enseñanzas y la amistad!**
