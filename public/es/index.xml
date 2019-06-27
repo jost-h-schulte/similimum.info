@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Espanol cosa on Homeopatía</title>
+    <link>https://similimum.info/es/</link>
+    <description>Recent content in Espanol cosa on Homeopatía</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://similimum.info/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acerca de mi - Homeopatía en Dénia, Orba y Pedreguer</title>
+      <link>https://similimum.info/es/acerca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://similimum.info/es/acerca/</guid>
+      <description>Acerca de mi I was born in 1980 in Bielefeld, Germany. On account of my own disease, at the age of 13 I already had contact with natural therapies, among them homeopathy. Thanks to a breakthrough with the homeopathic treatment I am able to enjoy my life to the fullest.
+In Germany I completed an intensive course encompassing conventional medicine and homeopathy. In 2012 I passed my exam before the public health department.</description>
+    </item>
+    
+    <item>
+      <title>Aplicaciones - Homeopatía en Dénia, Orba y Pedreguer</title>
+      <link>https://similimum.info/es/aplicaciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://similimum.info/es/aplicaciones/</guid>
+      <description>Applications One of the frequent questions is “Is there something for my joints?” Or “Can you treat my back pain?” And similar questions about a whole host of other conditions like hypertension, migraine, heartburn, irritable bowel syndrome, rashes, anxiety, depression, insomnia etc. and symptoms that couldn’t be diagnosed.
+The answer is: generally yes! Most conditions can be treated with homeopathy. How far an improvement can go and whether the disease can be cured depends on the individual person.</description>
+    </item>
+    
+  </channel>
+</rss>
