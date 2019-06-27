@@ -31,6 +31,20 @@
   </url>
   
   <url>
+    <loc>https://similimum.info/es/homeopatia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://similimum.info/en/homeopathy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://similimum.info/es/homeopatia/"
+                />
+  </url>
+  
+  <url>
     <loc>https://similimum.info/es/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,6 +55,20 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://similimum.info/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://similimum.info/es/tratamiento/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://similimum.info/en/treatment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://similimum.info/es/tratamiento/"
                 />
   </url>
   

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Espanol cosa on Homeopatía</title>
+    <title>Homeopatía en Dénia, Orba y Pedreguer</title>
     <link>https://similimum.info/es/</link>
-    <description>Recent content in Espanol cosa on Homeopatía</description>
+    <description>Recent content on Homeopatía en Dénia, Orba y Pedreguer</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://similimum.info/es/index.xml" rel="self" type="application/rss+xml" />
@@ -15,8 +15,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://similimum.info/es/acerca/</guid>
-      <description>Acerca de mi I was born in 1980 in Bielefeld, Germany. On account of my own disease, at the age of 13 I already had contact with natural therapies, among them homeopathy. Thanks to a breakthrough with the homeopathic treatment I am able to enjoy my life to the fullest.
-In Germany I completed an intensive course encompassing conventional medicine and homeopathy. In 2012 I passed my exam before the public health department.</description>
+      <description>Acerca de mi Nací en Bielefeld, Alemania, en 1980. Por mi propia enfermdad, ya con 13 años tuve contacto con terapias naturales, entre ellos la homeopatía. Gracias a un éxito con el tratamiento homeopático puedo disfrutar de mi vida al máximo. Desde el principio me ha fascinado el método de la homeopatía y fue un paso lógico para mi completar un entrenamiento en esta medicina maravillosa.
+En Alemania terminé un curso intensivo abarcando medicina convencional y homeopatía.</description>
     </item>
     
     <item>
@@ -25,8 +25,28 @@ In Germany I completed an intensive course encompassing conventional medicine an
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://similimum.info/es/aplicaciones/</guid>
-      <description>Applications One of the frequent questions is “Is there something for my joints?” Or “Can you treat my back pain?” And similar questions about a whole host of other conditions like hypertension, migraine, heartburn, irritable bowel syndrome, rashes, anxiety, depression, insomnia etc. and symptoms that couldn’t be diagnosed.
-The answer is: generally yes! Most conditions can be treated with homeopathy. How far an improvement can go and whether the disease can be cured depends on the individual person.</description>
+      <description>Aplicaciones Una de las preguntas más frecuentes es &amp;ldquo;¿Hay algo para mis articulaciones?&amp;rdquo; O &amp;ldquo;¿Puede tratar mi dolor en el estómago?&amp;rdquo;, y preguntas similares sobre toda una gama de otras condiciones como hipertensión, migrania, acidez, intestino irritable, sarpullidos, ansiedad, depresión, insomnia etc. y síntomas que no tienen diagnóstico.
+La respuesta es: ¡en general sí! La mayoría de condiciones se pueden tratar con homeopátia. Hasta dónde una mejoría va y si la enfermedad puede ser curada depende del caso individual.</description>
+    </item>
+    
+    <item>
+      <title>Homeopatía - Homeopatía en Dénia, Orba y Pedreguer</title>
+      <link>https://similimum.info/es/homeopatia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://similimum.info/es/homeopatia/</guid>
+      <description>Medicina Natural En la naturaleza existen remedios para cualquier situación y molestia. La homeopatía como sistema sanador completo utiliza los efectos curativos de sustancias naturales. Estos medicamentos activan la autocuración de la persona y el organismo se regula por si mismo automáticamente. Un equilibrio interno se establece y se puede superar el malestar.
+Método Holístico La homeopatía es una medicina holística e individual. Holístico significa que, para la selección del remedio de la persona, se tienen todos sus aspectos esenciales en cuenta.</description>
+    </item>
+    
+    <item>
+      <title>Tratamiento - Homeopatía en Dénia, Orba y Pedreguer</title>
+      <link>https://similimum.info/es/tratamiento/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://similimum.info/es/tratamiento/</guid>
+      <description>Detalles del Tratamiento Para encontrar un remedio adecuado, tengo una conversación amplia y detallada con el paciente en que pregunto sobre todos sus molestias presentes y otras fuertes influencias en su vida. Examinación y diagnóstico médico pueden dar pistas adicionales. En casos en los que el paciente no puede halbar por si mismo, hablo con familiares u otras personas cercanas.
+Progresión Típica La homeopatía es una arte profunda y extensiva que requiere su tiempo.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>English home on Homepathy</title>
+    <title>Homeopathy in Dénia, Orba and Pedreguer</title>
     <link>https://similimum.info/en/</link>
-    <description>Recent content in English home on Homepathy</description>
+    <description>Recent content on Homeopathy in Dénia, Orba and Pedreguer</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://similimum.info/en/index.xml" rel="self" type="application/rss+xml" />
@@ -15,8 +15,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://similimum.info/en/about/</guid>
-      <description>About me I was born in 1980 in Bielefeld, Germany. On account of my own disease, at the age of 13 I already had contact with natural therapies, among them homeopathy. Thanks to a breakthrough with the homeopathic treatment I am able to enjoy my life to the fullest.
-In Germany I completed an intensive course encompassing conventional medicine and homeopathy. In 2012 I passed my exam before the public health department.</description>
+      <description>About me I was born in 1980 in Bielefeld, Germany. On account of my own disease, at the age of 13 I already had contact with natural therapies, among them homeopathy. Thanks to a breakthrough with the homeopathic treatment I am able to enjoy my life to the fullest. From the beginning homeopathy has fascinated me and it was only a logical step for me to train in this wonderful method.</description>
     </item>
     
     <item>
@@ -26,7 +25,27 @@ In Germany I completed an intensive course encompassing conventional medicine an
       
       <guid>https://similimum.info/en/applications/</guid>
       <description>Applications One of the frequent questions is “Is there something for my joints?” Or “Can you treat my back pain?” And similar questions about a whole host of other conditions like hypertension, migraine, heartburn, irritable bowel syndrome, rashes, anxiety, depression, insomnia etc. and symptoms that couldn’t be diagnosed.
-The answer is: generally yes! Most conditions can be treated with homeopathy. How far an improvement can go and whether the disease can be cured depends on the individual person.</description>
+The answer is: generally yes! Most conditions can be treated with homeopathy. How far an improvement can go and whether the disease can be cured depends on the individual case.</description>
+    </item>
+    
+    <item>
+      <title>Homeopathy - Homeopathy in Dénia, Orba and Pedreguer</title>
+      <link>https://similimum.info/en/homeopathy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://similimum.info/en/homeopathy/</guid>
+      <description>Natural Medicine In nature there are remedies for every situation and complaint. Homeopathy as a complete healing system utilizes the curative effects of natural substances. These medicines activate the self-healing of the person and the organism regulates itself automatically. An internal balance is reestablished and disease can be overcome.
+Holistic Approach Homeopathy is a holistic and individual medicine. Holistic means that for the selection of a patient&amp;rsquo;s remedy all their essential aspects are taken into account.</description>
+    </item>
+    
+    <item>
+      <title>Treatment - Homeopathy in Dénia, Orba and Pedreguer</title>
+      <link>https://similimum.info/en/treatment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://similimum.info/en/treatment/</guid>
+      <description>Treatment details To arrive at a suitable remedy I have a thorough and detailed conversation with the patient where I ask all about their presenting complaints and other strong influences in their history. Examination and medical diagnoses can give additional information. In cases where patients cannot speak for themselves, relatives or other persons close to the patient are consulted.
+Typical progression Homeopathy is an art and science that takes its time.</description>
     </item>
     
   </channel>
