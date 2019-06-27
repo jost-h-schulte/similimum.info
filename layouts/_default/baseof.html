@@ -20,11 +20,6 @@
 
 <body>
     <header>
-        <nav id="menu-lang">
-            {{ range $.Site.Home.AllTranslations }}
-            <a href="{{ .Permalink }}"><img src="/images/{{ .Language.Lang }}.png" alt="{{ .Language.LanguageName }}" /></a>
-            {{ end }}
-        </div>
         <h1>{{ .Site.Title }}<img src="/images/logo.png" alt="Logo"></h1>
         <nav id="menu-main">
             {{ $currentPage := .File.TranslationBaseName }}
@@ -32,12 +27,11 @@
             <a href="{{ .URL | relLangURL }}" {{ if eq $currentPage .Identifier }} class="active" {{ end }}>{{ .Name }}</a>
             {{ end }}
         </nav>
-        <div>
-        {{ range .Translations }}
-            <a href="{{ .Permalink }}"><img src="/images/{{ .Lang }}.png" /></a>
-        {{ end }}
-        </div>
-        
+        <nav id="menu-lang">
+            {{ range $.Site.Home.AllTranslations }}
+            <a href="{{ .Permalink }}"><img src="/images/{{ .Language.Lang }}.png" alt="{{ .Language.LanguageName }}" /></a>
+            {{ end }}
+        </nav>
     </header>
     <main>
         {{ block "main" . }}{{ end }}
