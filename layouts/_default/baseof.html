@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="{{ .Description }}">
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108048244-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-108048244-1');
+    </script>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
+    <title>{{ .Title }}</title>
+</head>
+
+<body>
+    <header>
+        <h1>{{ .Site.Title }}<img src="/images/logo.png" alt="Logo"></h1>
+        <nav id="menu-main">
+            {{ $currentPage := .File.TranslationBaseName }}
+            {{ range .Site.Menus.main }}
+            <a href="{{ .URL | relLangURL }}" {{ if eq $currentPage .Identifier }} class="active" {{ end }}>{{ .Name }}</a>
+            {{ end }}
+        </nav>
+        <nav id="menu-lang">
+            {{ range $.Site.Home.AllTranslations }}
+            <a href="{{ .Permalink }}"><img src="/images/{{ .Language.Lang }}.png" alt="{{ .Language.LanguageName }}" /></a>
+            {{ end }}
+        </nav>
+    </header>
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    <footer>
+        <p id="contact">
+            +34 654 062 239<br>
+            <a href="mailto:js@similimum.info">js@similimum.info</a>
+        </p>
+        <p>
+            Centro Orenda, Calle Senija 5, 03700 Dénia
+        </p>
+        <p>
+            Casa Madre, Calle de Xopena 1, 03790 Orba
+        </p>
+        <p>
+            Ecosomnis, Plaça Sant Cristofor 6, 03750 Pedreguer
+        </p>
+    </footer>
+</body>
+
+</html>

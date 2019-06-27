@@ -28,7 +28,7 @@ h1 {
     line-height: 2rem;
     font-size: 1.2rem;
     text-align: center;
-    color: #d1590f;
+    color: #005c2c;
     background-color: #f5f1da;
 }
     
@@ -55,13 +55,32 @@ header {
     }
     
     nav {
-        margin: 0 auto 1rem auto;
         text-align: center;
+
+        a:first-of-type {
+            margin-left: 0;
+        }
+
+        a:last-of-type {
+            margin-right: 0;
+        }
+    }
+
+    nav#menu-lang {
+        margin: 1rem;
+
+        img {
+            max-width: 2rem;
+        }
+    }
+
+    nav#menu-main {
+        margin: 1rem auto;
         
         a, a:link, a:visited, a:active {
             display: inline-block;
             margin: 0 0.05rem;
-            padding: 0 0.2rem;
+            padding: 0 0.5rem;
             font-size: 0.8rem;
             color: #fff;
             text-decoration: none;
@@ -90,9 +109,30 @@ header {
     }
 }
 
+@media only screen and (min-width: 768px) {
+    header {
+        padding: 2rem 0 1rem 0;
+        
+        img {
+            margin: 0 0.5rem;
+            max-width: 3rem;
+        }
+    
+        nav#menu-main {
+            margin: 1rem auto;
+            
+            a, a:link, a:visited {
+                margin: 0 0.1rem;
+                padding: 0.2rem 0.5rem;
+                font-size: 1rem;
+            }
+        }
+    }
+}
+
 main {
     margin: 0 auto;
-    padding: 0.5rem 0 1rem 0;
+    padding: 0 0 1rem 0;
     width: 90%;
     
     strong {
@@ -143,6 +183,10 @@ a:hover {
     text-decoration: none;
 }
 
+.text-center {
+    text-align: center;
+}
+
 @media only screen and (min-width: 768px) {
      h1 {
         font-size: 2rem;
@@ -150,25 +194,6 @@ a:hover {
     
     h2 {
         font-size: 1.5rem;
-    }
-
-    header {
-        padding: 2rem 0 1rem 0;
-        
-        img {
-            margin: 0 0.5rem;
-            max-width: 3rem;
-        }
-    
-        nav {
-            margin: 1rem auto;
-            
-            a, a:link, a:visited {
-                margin: 0 0.1rem;
-                padding: 0.2rem 0.5rem;
-                font-size: 1rem;
-            }
-        }
     }
 
     main {
