@@ -6,25 +6,26 @@ translationKey: "index"
 
 ![Path](/images/path.jpg)
 
-## Homeopathy
+## Homeopatía
 
-The symptoms and illnesses our body produces are signs of an inner imbalance. In Homeopathy they are interpreted as direct guides to the medicine the person needs in this moment.
+Los síntomas y enfermedades que nuestro cuerpo produce son señales de un desequilibrio interno. En la homeopatía son interpretados como guía directo al medicamento que la persona necesita en ese momento.
 
-In many cases there’s a possibility to improve your health or even cure your disease with homeopathic medicine. Homeopathy is a natural, holistic and non-toxic treatment and has been used to successfully treat all kinds of conditions for more than 200 years. It continues to be the most-used natural medicine in the world.
+En muchos casos es posible mejorar su salud o incluso curar su enfermedad con medicina homeopática. La homeopatía es un tratamiento natural, holístico y no tóxico y ha sido usado con éxito para tratar todo tipo de malestares por más de 200 años. Sigue siendo la más usada medicina natural en el mundo.
 
-## In my experience
+## En mi experiencia
 
-"Homeopathy is one of the most complete and profound therapies there are, that have been verified over a long time. It is a pleasure for me to accompany people on their path in life and support them in big and small challenges. And above all watch them emerge stronger."
+"La homeopatía es una terapia completa y profunda que ha sido verificado y desarrollado por cientos de años. Es un placer para mi acompañar a personas en el camindo de su vida y apoyarles en grandes y prequeños desafios. Y sobre todo verlos salir adelante más libre, equilibrado, relajado."
 
-## Fees
+## Honorario
 
-* Consultation from 0 to 18 years of age: **30 Euro**
-* Consultation from 19 years onwards: **40 Euro**
+* Consulta de 0 a 18 años: **30 Euro**
+* Consulta a partir de 18 años en adelante: **40 Euro**
+* Consulta en casos agudos: **20 Euro**
 
-## Locations
+## Ubicaciones
 
-I practice in three different places in the Marina Alta:
+Paso consulta en los tres siguientes sitios en la Marina Alta:
 
-* **Dénia**, Centro Orenda in Calle Senija 5
-* **Orba**, Calle Bonaire 28 on the first floor left
-* **Pedreguer**, Ecosomnis at Plaza Sant Cristofor 6
+* **Dénia**, Centro Orenda en Calle Senija 5
+* **Orba**, Casa Madre en Calle Xopena 1
+* **Pedreguer**, Ecosomnis en Plaza Sant Cristofor 6
