@@ -70,8 +70,8 @@ header nav#menu-main {
 }
 header nav#menu-main a, header nav#menu-main a:link, header nav#menu-main a:visited, header nav#menu-main a:active {
   display: inline-block;
-  margin: 0 0.05rem;
-  padding: 0 0.3rem;
+  margin: 0 0.01rem;
+  padding: 0 0.2rem;
   font-size: 0.8rem;
   color: #fff;
   text-decoration: none;
