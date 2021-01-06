@@ -24,8 +24,4 @@ En muchos casos es posible mejorar su salud o incluso curar su enfermedad con me
 
 ## Ubicaciones
 
-Paso consulta en los tres siguientes sitios en la Marina Alta:
-
-* **Dénia**, Centro Orenda en Calle Senija 5
-* **Orba**, Casa Madre en Calle Xopena 1
-* **Pedreguer**, Ecosomnis en Plaza Sant Cristofor 6
+Paso consulta en el herbolario La Bassa en Calle La Bassa 15, Gata de Gorgos.

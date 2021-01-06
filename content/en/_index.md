@@ -22,10 +22,6 @@ In many cases it's possible to improve your health or even cure your disease wit
 * Consultation from 18 years onwards: **40 Euro**
 * Consultation in acute cases: **20 Euro**
 
-## Locations
+## Location
 
-I practice in three different places in the Marina Alta:
-
-* **Dénia**, Centro Orenda in Calle Senija 5
-* **Orba**, Casa Madre in Calle Xopena 1
-* **Pedreguer**, Ecosomnis at Plaza Sant Cristofor 6
+My consultation room is in the health food shop La Bassa in Calle La bassa 15, Gata de Gorgos.
